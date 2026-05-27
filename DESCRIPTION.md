@@ -44,7 +44,7 @@
 ### Key Benefits:
 
 | Benefit | Impact | Annual Value |
-|---------|--------|--------------|
+|---------|--------|---------------|
 | **Speed** | Seconds instead of hours | Time savings: 20+ hours/week |
 | **Capacity** | Free analysts for strategic work | €150K-€200K team capacity |
 | **Quality** | Reduced misinterpretation errors | €80K-€120K error prevention |
@@ -157,8 +157,8 @@ CI/CD:      GitHub Actions
 ### Quick Start (5 minutes):
 ```bash
 # Clone repository
-git clone https://github.com/dianarendulic102/ai-report-agent.git
-cd ai-report-agent
+git clone https://github.com/dianarendulic102/aireport.git
+cd aireport
 
 # Setup environment
 python -m venv venv
@@ -237,7 +237,7 @@ Internal Porsche AG project. All rights reserved.
 ## 📈 Expected Outcomes (12 Months)
 
 | Metric | Baseline | Target | Improvement |
-|--------|----------|--------|------------|
+|--------|----------|--------|-------------|
 | Avg Response Time | 45 min | 5 sec | 99% faster |
 | Questions/Week | 30 manual | 100+ AI-assisted | 3-4x volume |
 | Team Hours/Week | 40 hrs | 15 hrs | 62% reduction |
@@ -248,5 +248,5 @@ Internal Porsche AG project. All rights reserved.
 ---
 
 **Version**: 1.0  
-**Last Updated**: May 15, 2026  
+**Last Updated**: May 18, 2026  
 **Status**: 🟢 Active Development
