@@ -10,7 +10,7 @@
 
 ### Current Challenges:
 - ⏱️ **Slow Data Access**: Simple questions take 30-60 minutes to resolve
-- 👥 **Resource Bottleneck**: Analytics team manually finds, verifies, and sends information (hours per week)
+- 👥 **Resource Bottleneck**: Analytics team manually finds, verifies, and sends information (approximately 40 hours per month)
 - 🚫 **Data Misinterpretation**: Users often misunderstand report data, leading to incorrect conclusions
 - ⚡ **Delayed Decisions**: Time-sensitive business decisions are delayed waiting for data analysis
 
@@ -45,7 +45,7 @@
 
 | Benefit | Impact | Annual Value |
 |---------|--------|---------------|
-| **Speed** | Seconds instead of hours | Time savings: 20+ hours/week |
+| **Speed** | Seconds instead of hours | Time savings: 40+ hours/month |
 | **Capacity** | Free analysts for strategic work | €150K-€200K team capacity |
 | **Quality** | Reduced misinterpretation errors | €80K-€120K error prevention |
 | **Scalability** | Support unlimited concurrent users | €50K-€75K infrastructure savings |
@@ -58,7 +58,7 @@
 - 📊 **99% faster response time**
 
 ### Team Productivity:
-- Jarvis team freed from 40+ ad-hoc requests/week
+- Jarvis team freed from 40+ ad-hoc requests/month
 - Focus on complex, strategic analysis instead of repetitive queries
 - **10x increase in team capacity for high-value work**
 
@@ -190,8 +190,8 @@ python agents/main.py --report reports/sample.csv --action analyze
 - **User Adoption**: > 50 active users within 60 days
 
 ### Business KPIs:
-- **Time Saved**: 20+ hours/week for analytics team
-- **Questions Resolved**: 100+ questions/week via AI Agent
+- **Time Saved**: 40+ hours/month for analytics team
+- **Questions Resolved**: 400+ questions/month via AI Agent
 - **User Satisfaction**: > 4.5/5 star rating
 - **Adoption Rate**: > 60% of target stakeholders using within 90 days
 - **Cost Savings**: €380K-€475K annual ROI
@@ -239,14 +239,14 @@ Internal Porsche AG project. All rights reserved.
 | Metric | Baseline | Target | Improvement |
 |--------|----------|--------|-------------|
 | Avg Response Time | 45 min | 5 sec | 99% faster |
-| Questions/Week | 30 manual | 100+ AI-assisted | 3-4x volume |
-| Team Hours/Week | 40 hrs | 15 hrs | 62% reduction |
+| Questions/Month | 40-50 manual | 400+ AI-assisted | 8-10x volume |
+| Team Hours/Month | 40 hrs | 5-8 hrs | 80% reduction |
 | User Satisfaction | N/A | 4.5/5 | Excellent |
 | Cost/Question | €50 | €2 | 96% cheaper |
-| Decisions/Week | 10 | 30+ | 3x faster decisions |
+| Decisions/Month | 10-15 | 100+ | 7-10x faster decisions |
 
 ---
 
 **Version**: 1.0  
-**Last Updated**: May 18, 2026  
+**Last Updated**: May 27, 2026  
 **Status**: 🟢 Active Development
