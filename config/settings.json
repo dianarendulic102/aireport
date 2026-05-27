@@ -1,0 +1,30 @@
+{
+  "app": {
+    "name": "AI Report Agent",
+    "version": "1.0.0",
+    "description": "Intelligent AI-powered analytics assistant",
+    "author": "Diana Rendulic"
+  },
+  "ai": {
+    "model": "gpt-4",
+    "temperature": 0.7,
+    "max_tokens": 2000,
+    "timeout": 30
+  },
+  "paths": {
+    "reports": "reports/",
+    "prompts": "prompts/",
+    "logs": "logs/"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  },
+  "features": {
+    "analyze": true,
+    "summarize": true,
+    "ask": true,
+    "compare": true,
+    "insights": true
+  }
+}

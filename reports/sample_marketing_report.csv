@@ -1,0 +1,9 @@
+Campaign,Channel,Impressions,Clicks,Conversions,Spend,ROI,Engagement_Rate
+Spring_Campaign,Email,500000,15000,2250,5000,45%,3%
+Spring_Campaign,Social_Media,2300000,69000,8280,25000,33%,3%
+Spring_Campaign,Search,1500000,90000,18000,40000,45%,6%
+Spring_Campaign,Display,800000,16000,1600,8000,20%,2%
+Summer_Preview,Email,420000,18480,4236,3500,121%,4.4%
+Summer_Preview,Social_Media,1800000,90000,13500,20000,67.5%,5%
+Summer_Preview,Search,1200000,96000,19200,35000,54.9%,8%
+Summer_Preview,Display,600000,18000,1800,5000,36%,3%

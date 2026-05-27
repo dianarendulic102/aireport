@@ -1,0 +1,13 @@
+Month,Region,Product,Revenue,Growth,Units_Sold,Customer_Count
+May,EU,Product_A,450000,15%,1500,250
+May,EU,Product_B,350000,12%,1200,180
+May,APAC,Product_A,280000,-8%,900,140
+May,APAC,Product_B,220000,-5%,750,110
+May,Americas,Product_A,320000,10%,1100,160
+May,Americas,Product_B,200000,8%,650,95
+April,EU,Product_A,391300,12%,1304,217
+April,EU,Product_B,312500,10%,1071,164
+April,APAC,Product_A,304300,18%,980,152
+April,APAC,Product_B,231600,15%,789,116
+April,Americas,Product_A,290900,14%,1000,145
+April,Americas,Product_B,185200,9%,602,87
